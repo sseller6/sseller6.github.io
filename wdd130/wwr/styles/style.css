@@ -43,6 +43,33 @@ main{
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
+
+#page_2_greeting{
+    padding-top: 100px;
+    grid-column: 1/11;
+    grid-row: 1/2;
+}
+
+.top_left_section{
+    margin:200px 0;
+    grid-column: 1/8;
+    grid-row: 2/6;
+    background-color: #063970;
+    z-index: 4;
+}
+.right_section{
+    margin:200px 0;
+    grid-column: 8/11;
+    grid-row: 2/6;
+    background-color: #999993;
+}
+.bottom_left_section{
+    margin:200px 0;
+    grid-column: 1/8;
+    grid-row: 4/6;
+    background-color: #396E94;
+    z-index: 5;
+}
 main section img{
     box-sizing: border-box;
 }
@@ -64,7 +91,7 @@ header{
     font-family: Helvetica, Lato, sans-serif;
 }
 nav:hover{
-    background-color: black;
+    background-color: #396E94;
     color: white;
 }
 .book, .join{
@@ -179,8 +206,9 @@ footer a:hover{
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
-
 }
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
