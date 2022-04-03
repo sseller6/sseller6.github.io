@@ -106,12 +106,14 @@ main p:nth-of-type(2) {
 }
 #extrovert_img {
   grid-column: 0/3;
-  grid-row: 6;
+  grid-row: 6/8;
+  padding: 25px 25px 25px 25px;
 }
 #introvert_img {
   grid-column: 4/9;
-  grid-row: 6;
+  grid-row: 6/8;
   margin-left: -50px;
+  padding: 25px 25px 25px 25px;
 }
 
 /* Must Know Page */
