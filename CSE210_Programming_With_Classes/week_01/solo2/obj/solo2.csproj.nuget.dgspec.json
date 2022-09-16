@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo_1\\week_01.csproj": {}
+    "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo2\\solo2.csproj": {}
   },
   "projects": {
-    "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo_1\\week_01.csproj": {
+    "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo2\\solo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo_1\\week_01.csproj",
-        "projectName": "week_01",
-        "projectPath": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo_1\\week_01.csproj",
+        "projectUniqueName": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo2\\solo2.csproj",
+        "projectName": "solo2",
+        "projectPath": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo2\\solo2.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo_1\\obj\\",
+        "outputPath": "C:\\git\\desktop_version_wdd\\sseller6.github.io\\CSE210_Programming_With_Classes\\week_01\\solo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
